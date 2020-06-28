@@ -12,8 +12,12 @@ namespace Mediator
         /// </summary>
         public override void GetWay(string messageFromAirport)
         {
-            Console.WriteLine(FlightCode + " nolu Pegasus ucagi inis icin izin gonderdi!");
+            Console.WriteLine(From + " istikametine giden" + FlightCode + " nolu Pegasus ucagi inis icin izin gonderdi!");
             base.GetWay(messageFromAirport);
+        }
+        public override string ToString()
+        {
+            return Airport + " " + From + " " + FlightCode;
         }
     }
 }

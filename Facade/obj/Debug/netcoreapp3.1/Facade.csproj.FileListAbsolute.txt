@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Users\onur-\source\repos\DesingPattern\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\onur-\source\repos\DesingPattern\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

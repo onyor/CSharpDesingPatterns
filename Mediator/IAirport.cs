@@ -9,10 +9,14 @@ namespace Mediator
 
     /// <summary>
     /// Mediator
+    /// Arabulucu (Kule)
     /// </summary>
     public interface IAirport
     {
+        //Uçağı Kaydet
         void Register(AirlineBase airlaneBase);
+
+        //İniş İzni Ver
         void GiveLandingPermission(string flightCode,string way);
     }
 }

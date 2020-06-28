@@ -7,12 +7,12 @@ namespace Mediator
 {
     /// <summary>
     /// Concrete Mediator
-    /// Somut Arabulucu
+    /// Somut Arabulucu (Hava Limanı)
     /// </summary>
     public class AtaturkAirport : IAirport
     {
         // Concrete Colleague nesne örnekleri bu koleksiyonda depolanmaktadır.
-        private Dictionary<string, AirlineBase> _planes;
+        public Dictionary<string, AirlineBase> _planes;
         public AtaturkAirport()
         {
             _planes = new Dictionary<string, AirlineBase>();
@@ -21,7 +21,7 @@ namespace Mediator
         #region IAirportControl Members
 
         /** Kontrol kulesine çevredeki uçakların kayıt olması için Register metodu kullanılır. 
-         * Bu metod parametre olarak Colleague' den türeyen her hangibir Concrete Colleague nesne örnepğini alabilir.
+         * Bu metod parametre olarak Colleague' den türeyen her hangibir Concrete Colleague nesne örneğini alabilir.
          */
         public void Register(AirlineBase airlaneBase)
         {
