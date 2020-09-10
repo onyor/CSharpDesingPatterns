@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{2E4FFCD6-41BD-4F51-8A7D-F207AA99FE3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{D627311B-C6A4-4E51-A876-31668D053183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{D627311B-C6A4-4E51-A876-31668D053183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{CAD2720C-53B2-4614-990D-B95E453CEF5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D627311B-C6A4-4E51-A876-31668D053183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D627311B-C6A4-4E51-A876-31668D053183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D627311B-C6A4-4E51-A876-31668D053183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD2720C-53B2-4614-990D-B95E453CEF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD2720C-53B2-4614-990D-B95E453CEF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD2720C-53B2-4614-990D-B95E453CEF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD2720C-53B2-4614-990D-B95E453CEF5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

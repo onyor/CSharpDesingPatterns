@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\onur-\source\repos\DesingPattern\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+C:\Users\onur-\source\repos\DesingPattern\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache
