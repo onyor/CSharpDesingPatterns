@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\onur-\source\repos\DesingPattern\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\onur-\source\repos\DesingPattern\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

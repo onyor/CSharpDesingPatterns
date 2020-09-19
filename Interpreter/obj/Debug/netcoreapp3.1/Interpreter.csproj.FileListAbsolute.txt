@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csprojAssemblyReference.cache
