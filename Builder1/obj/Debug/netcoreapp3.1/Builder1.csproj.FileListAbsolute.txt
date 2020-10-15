@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.exe
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.dll
+C:\Users\onur-\source\repos\DesingPattern\Builder1\bin\Debug\netcoreapp3.1\Builder1.pdb
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.dll
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.pdb
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Builder1\obj\Debug\netcoreapp3.1\Builder1.csprojAssemblyReference.cache
