@@ -1,0 +1,12 @@
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.exe
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.dll
+C:\Users\onur-\source\repos\DesingPattern\Chain\bin\Debug\netcoreapp3.1\Chain.pdb
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.dll
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.pdb
+C:\Users\onur-\source\repos\DesingPattern\Chain\obj\Debug\netcoreapp3.1\Chain.genruntimeconfig.cache
