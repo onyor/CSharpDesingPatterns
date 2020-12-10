@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Proxy
 {
+    //Real Subject
     class ImageGenerator : IImageGenerator
     {
         private string _fullPath;

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o7iwEuMUiqg3EdSPEuNxPU7kvxF+Ch1yAfmz+DABBDqE83lUQN021Qv2meUPi+BBXI6XxZgvwEZDQrtaHl17kQ==",
+  "dgSpecHash": "0i3gD3EuifmVWi9GLd+Szj8hKht79251ELnVpI3wv8wPqXXAsqN1BsNPWpPBRikiyMA1hiPi4RHklebRIeKKyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Observer\\Observer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

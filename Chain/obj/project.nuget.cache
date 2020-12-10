@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "If95qNSsgO9On4I7AbSWtJ2p62lpcLkqavoYTmCrQ2bxsSqmMkwlxer6VnBHqu83jpxccyjWjLdx7RU89VpOeg==",
+  "dgSpecHash": "5zqHOCK/ZHGM08eqEZvRn9m6JZOp6d/2U2PkKs/cuE3byBgCpcyR213+CANhbgGgoRHPfSxSiR3bPMVVORsNVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Chain\\Chain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

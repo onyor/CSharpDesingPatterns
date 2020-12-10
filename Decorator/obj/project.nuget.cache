@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gtc083zaJEl5zKoLrzlUxnqqA+tVHnssffn3qaZv4AUlC3XuQVv++3YeBM6XHJxHWmcRTK9JKuwVWopa8eMz0g==",
+  "dgSpecHash": "i6Ctm6bNr65qcFAl4ftOwABS5hk5otZ9KnqeeGv+9nA1NlzL9pDMB5eFsYqFKKf6x8xgCWZyPGDVfaxMvWhPVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Decorator\\Decorator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

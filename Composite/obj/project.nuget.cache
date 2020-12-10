@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5fXoWI7sC4ieWtKiWPx11u/2qDf2QkSCnDmZcn6FcCpeg7+Vo0W+rwEcHPSKFA0366UfZhg5+jGtlF1UHG6TkA==",
+  "dgSpecHash": "ATruqKcOrGbZunYePlrhcYg1YzC03dtfx342FIDxe8anxXIkAi1UgVPDPmvGKHh+xhQT0VK0VntM1L7UvYLNYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Composite\\Composite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

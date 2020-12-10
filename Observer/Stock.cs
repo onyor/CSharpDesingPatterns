@@ -4,6 +4,8 @@ using System.Text;
 
 namespace Observer
 {
+    //Subject: Takip etmek istediğimiz hisse stoku
+    //Observable
     class Stock
     {
         public string Name { get; set; }

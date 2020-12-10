@@ -10,3 +10,4 @@ C:\Users\onur-\source\repos\DesingPattern\Proxy\obj\Release\netcoreapp3.1\Proxy.
 C:\Users\onur-\source\repos\DesingPattern\Proxy\obj\Release\netcoreapp3.1\Proxy.dll
 C:\Users\onur-\source\repos\DesingPattern\Proxy\obj\Release\netcoreapp3.1\Proxy.pdb
 C:\Users\onur-\source\repos\DesingPattern\Proxy\obj\Release\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Proxy\obj\Release\netcoreapp3.1\Proxy.csprojAssemblyReference.cache

@@ -10,7 +10,7 @@ namespace Observer
 
         public void Update(Stock stock)
         {
-            Console.WriteLine("{0} hissesinin lot değeri {1} olarak güncellendi", stock.Name, stock.LotValue.ToString("C2"));
+            Console.WriteLine("{0} hissesinin lot değeri {1} olarak güncellendi", stock.Name, stock.LotValue.ToString()+"M");
         }
     }
 }

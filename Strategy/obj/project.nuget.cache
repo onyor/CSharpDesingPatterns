@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mWpDVOpR9gOP0Fz06QK7OFIQTHAavHfqLN03wXCLnz7UTlPssjX6MuubgB/U4raB2t8NDXd3omtcBs0v2csbNw==",
+  "dgSpecHash": "u3w7ovvcYQLIUD6cTaDfYOHmwll6Y0o0JeLX2oouvItxWG3YRuc6ln/zgqePf0Hzm9ngSG9TuEuv6Vu/pNG/Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Strategy\\Strategy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

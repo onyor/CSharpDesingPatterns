@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "36M+OANrLCYYfxDUkT/QTvMb+lCoq3gP1rD8qB34ZQug01pirgnLK/taTN7AoTQk/1JUfGWhxuDG5F1Nsj2iQQ==",
+  "dgSpecHash": "j9dw20GxZbzfCaV7hqCWjIRU8ui6oAXjqXb78xcyjb3mkGbX7Pr9p96bA7V70b8cRY2diti/h322cGdqvddR1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Mediator\\Mediator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

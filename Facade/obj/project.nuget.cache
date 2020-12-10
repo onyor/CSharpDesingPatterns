@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DgQ6yJuSiNgtmr1mf7dbcmqqESU4BXz0aXmP6VBLahtJCM/q4KVoCeNDiHU+jnbtYkw1Xgqx+9+IdQ3bgEG0hQ==",
+  "dgSpecHash": "0Msu/MXcwL0UTQGx4OvHkZzT6nEFtrvDo81d3aRkgYpnesy8l+ZZ/Nq2tiTV3ak6Q9VwGgIV85/6M0M/pTCUAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Facade\\Facade.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

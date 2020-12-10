@@ -10,3 +10,4 @@ C:\Users\onur-\source\repos\DesingPattern\Observer\bin\Release\netcoreapp3.1\Obs
 C:\Users\onur-\source\repos\DesingPattern\Observer\obj\Release\netcoreapp3.1\Observer.dll
 C:\Users\onur-\source\repos\DesingPattern\Observer\obj\Release\netcoreapp3.1\Observer.pdb
 C:\Users\onur-\source\repos\DesingPattern\Observer\obj\Release\netcoreapp3.1\Observer.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Observer\obj\Release\netcoreapp3.1\Observer.csprojAssemblyReference.cache

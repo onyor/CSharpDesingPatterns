@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Proxy
 {
+    //Proxy
     class ImageGeneratorProxy : IImageGenerator
     {
         private ImageGenerator _generator;

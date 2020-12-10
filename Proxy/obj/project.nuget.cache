@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GhndrgXN84b5wRVfp+WajkLjm/YIM6zDOPPR6dkVSq9+EPr1dJpy2XKaM+d2f/GIlfOx8o9LTqUTsmgD9uQ4gA==",
+  "dgSpecHash": "OJmLTDgd6ZCJE/OiE0EBnvg63TxM5M9CmbrDRJ8klTDEZzS15BpFjO+WQ8o7R5Yg4KbN/uYcCa8lPD4OplQsdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Proxy\\Proxy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

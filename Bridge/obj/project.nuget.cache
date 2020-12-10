@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wClJ7kLowP42d1w8pCpH2x6j2G2xaPbEK8AdIJ59/OiIV3OMc0XL+HhrPOISH65zDwMZOC+YTtslbVrByA/mFg==",
+  "dgSpecHash": "LqMFL2rE5TOHG5WVEfpaHSjBBNPcI6S12kB3vkx8IdJT5wL0biJ3n+6Zx3v24mL9k4VLM0Rjcf+ejH6/tRohxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Bridge\\Bridge.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

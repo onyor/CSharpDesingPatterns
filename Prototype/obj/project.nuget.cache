@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+XxSpte+Bv1OIhCBvJFKlV61+MDOHgHgeik7MoSyiuFBoqyDKRAV3e1qgToGa9i74d2qS54hdtKXXaPZJmq5BQ==",
+  "dgSpecHash": "prRcHbRKIhb1ZLyOhSbQ7DPKdTIOlmyDyGO0jX1jQHmwBpNozn17qo8v6L5mQJbPhAqWYBBl5JsBqpRVJyIcQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Prototype\\Prototype.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
