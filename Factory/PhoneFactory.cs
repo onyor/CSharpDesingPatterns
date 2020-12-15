@@ -38,7 +38,6 @@ namespace Factory
             {
                 throw new Exception("Geçerli bir model giriniz!");
             }
-
             return phone;
         }
     }

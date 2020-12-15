@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gtLFnV8jLH1cblVt3OvdQNRnkOxSRouxMhAJSN52ZUzZBrF5kpDa85F4xbvcnD8E3Fjazws+IEfdDDcvuvVhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

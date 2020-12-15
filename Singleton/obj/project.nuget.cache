@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ts6lM+arbSSJvTWQs5tDAg9ZCiS66ESOZpz0ouZH3zkAg22jiWdElqx2M9MY2CAArQsANZ4fdE13g2ILT9l0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onur-\\source\\repos\\DesingPattern\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\onur-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

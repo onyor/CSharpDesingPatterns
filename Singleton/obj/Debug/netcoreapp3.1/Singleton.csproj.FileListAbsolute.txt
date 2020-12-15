@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\onur-\source\repos\DesingPattern\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache

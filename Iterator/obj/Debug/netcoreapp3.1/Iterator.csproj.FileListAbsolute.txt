@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\onur-\source\repos\DesingPattern\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache
+C:\Users\onur-\source\repos\DesingPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
