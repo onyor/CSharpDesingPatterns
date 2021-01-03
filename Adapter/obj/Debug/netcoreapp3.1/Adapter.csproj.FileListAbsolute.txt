@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\onur-\source\repos\DesingPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\onur-\source\repos\DesingPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

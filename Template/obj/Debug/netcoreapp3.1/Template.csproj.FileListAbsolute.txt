@@ -1,0 +1,13 @@
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.exe
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.deps.json
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.runtimeconfig.json
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.runtimeconfig.dev.json
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.dll
+C:\Users\onur-\source\repos\DesingPattern\Template\bin\Debug\netcoreapp3.1\Template.pdb
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.csprojAssemblyReference.cache
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.AssemblyInfoInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.AssemblyInfo.cs
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.csproj.CoreCompileInputs.cache
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.dll
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.pdb
+C:\Users\onur-\source\repos\DesingPattern\Template\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
